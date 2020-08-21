@@ -699,20 +699,6 @@ def set_keyboard_dirs(cur_block, width, height):
         cur_block.move()
         move_timer = 10
 
-# highscores dict and calling for the first run, afterwards its saves
-# high_scores = {'The supreme overlord Vijay': 1312982,
-#                'BTEC guy1': 1294,
-#                'BTEC guy2': 1153,
-#                'BTEC guy3': 983,
-#                'BTEC guy4': 812,
-#                "Servant 1": 714,
-#                "Servant 2": 629,
-#                "Servant 3": 528,
-#                "Servant 4": 486
-#     }
-# scores = [f'{name}: {scores}\n' for name, scores in high_scores.items()]
-# with open("saved scores.txt", "w") as s:
-#     s.writelines(scores)
 sound_lib = {'delete': pygame.mixer.Sound('deleting.wav'),
              'click': pygame.mixer.Sound('mouse-click.wav'),
              'rotate': pygame.mixer.Sound('rotate.wav'),
