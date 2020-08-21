@@ -1,9 +1,9 @@
-The supreme overlord Vijay: 1312982
-BTEC guy1: 1294
-BTEC guy2: 1153
-BTEC guy3: 983
-BTEC guy4: 812
-Servant 1: 714
+Vijay: 1312982
+guy1: 1294
+guy2: 1153
+guy3: 983
+guy4: 812
+guy5: 714
 vijay: 650
-Servant 3: 528
-Servant 4: 486
+guy6: 528
+guy7: 486
